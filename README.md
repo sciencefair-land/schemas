@@ -1,0 +1,3 @@
+# schemas
+
+ScienceFair content schemas
